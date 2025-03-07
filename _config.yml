@@ -4,7 +4,10 @@ url: https://neil-b-patel.com
 
 theme: hacked-jekyll
 repository: abigailmsanti/tech-website
-
+color_punct: pink-9
+color_key: pink-4
+color_value: pink-4
+color_hover: pink-5
 exclude:
   - LICENSE
   - README.md

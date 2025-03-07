@@ -15,7 +15,7 @@ body {
   font-size: 16px;
   font-weight: 400;
   background-color: var(--oc-gray-9);
-  color: var(--oc-green-9); }
+  color: var(--oc-pink-9); }
 
 main {
   position: absolute;
@@ -42,7 +42,7 @@ a {
 
 a:hover,
 a:active {
-  color: var(--oc-green-5); }
+  color: var(--oc-pink-5); }
 
 #json {
   white-space: nowrap; }
@@ -64,10 +64,10 @@ a:active {
   margin-left: 1.5rem; }
 
 .key {
-  color: var(--oc-green-4);
+  color: var(--oc-pink-4);
   text-transform: lowercase; }
 
 .error,
 .value {
-  color: var(--oc-green-4);
+  color: var(--oc-pink-4);
   text-transform: lowercase; }
