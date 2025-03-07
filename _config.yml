@@ -3,6 +3,7 @@ description: Crafting the internet since '99
 url: https://neil-b-patel.com
 
 theme: hacked-jekyll
+repository: abigailmsanti/tech-website
 
 exclude:
   - LICENSE
