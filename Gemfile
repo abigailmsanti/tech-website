@@ -1,7 +1,4 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
-
-gemspec
-
-gem "github-pages", group: :jekyll_plugins
+gem 'hacked-jekyll', '~> 3.0'
+gem 'csv', '~> 3.3.2'

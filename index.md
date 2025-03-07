@@ -1,8 +1,3 @@
 ---
-layout: default
-typed: true
+layout: home
 ---
-
-# example text
-
-more text more text
